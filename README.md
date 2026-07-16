@@ -12,6 +12,10 @@
 * test_ver_IDK.class (遊戲運行區塊)
 * Board.class (棋盤設定)
 * Stone.class (棋子設定)
+## 使用紀錄(For me)
+javac -encoding UTF-8 XXX.java	(打包)
+chcp 65001												(設定CLI使用UTF-8)
+java -Dfile.encoding=UTF-8 XXX	(執行)
 ## 為何想放上github
 懵懂無知之時不懂得何謂版本控制，當掌握了新技術，如獲至寶，馬上想起的是過往那段無限修正+檢查合併組員修改部分的地獄。
 ## 做了什麼變更
